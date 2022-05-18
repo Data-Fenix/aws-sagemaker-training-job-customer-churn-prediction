@@ -1,4 +1,5 @@
 # Build ML Training Pipeline for Customer Churn Prediction Model usning AWS SageMaker Pipeline
+<img target="_blank" src="https://github.com/Data-Fenix/aws-sagemaker-training-job-customer-churn-prediction/blob/main/images/CustomerChurnCoverImage.png">
 
 ## Table of Content
   * [Demo](#demo)
